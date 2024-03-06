@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=200&section=header&text=dev.KMC&fontSize=40)  
 
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-0431B4?style=for-the-badge&logo=GitHub&logoColor=white">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devKMC&show_icons=true&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=200&section=header&text=김민철&fontSize=40)  
+![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=200&section=header&text=김민철&fontSize=40&fontcolor=FFFFFF)  
 
 
 

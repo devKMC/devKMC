@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=300&section=header&text=김민철&fontSize=90)  
+![header](https://capsule-render.vercel.app/api?type=venom&color=random&height=200&section=header&text=김민철&fontSize=40)  
 <!--
 **devKMC/devKMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

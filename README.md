@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=200&section=header&text=Dev.KMC&fontSize=40)  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=200&section=header&text=dev.KMC&fontSize=40)  
 
 
 # git status

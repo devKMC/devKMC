@@ -3,8 +3,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devKMC&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 
- - 언어 사용량 통계
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev_KMC)](https://github.com/dev_KMC/github-readme-stats)
 
 <!--
 **devKMC/devKMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

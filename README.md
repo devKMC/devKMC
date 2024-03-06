@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=random&height=200&section=header&text=Dev.KMC&fontSize=40)  
 
 
-# 통계
+# git status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devKMC&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 

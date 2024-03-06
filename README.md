@@ -5,7 +5,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devKMC&show_icons=true&theme=moltack)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://img.shields.io/badge/Scss-green?style=flat&logo=Sass&logoColor=CC6699"/>
-
+<img src="https://img.shields.io/badge/scala-red?style=flat&logo=Sass&logoColor=CC6699"/>
+scala
 
 <!--
 **devKMC/devKMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
